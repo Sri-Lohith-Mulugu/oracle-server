@@ -62,7 +62,7 @@ This reduces scan times from \~15 seconds to \*\*under 200ms\*\*, even on massiv
 
 
 
-!\[Code-Oracle MCP Inspector Output](output-demo.png)
+![Code-Oracle MCP Inspector Output](https://github.com/Sri-Lohith-Mulugu/oracle-server/blob/main/output-demo.png?raw=true)
 
 
 
